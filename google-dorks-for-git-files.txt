@@ -1,0 +1,10 @@
+filename:.git-credentials
+filename:gitconfig
+intext:"index of /.git" "parent directory"
+filetype:git -github.com inurl:"/.git"
+(intext:"index of /.git") ("parent directory")
+inurl:ORIG_HEAD
+intitle:"index of" ".gitignore"
+".git" intitle:"Index of"
+(intext:"index of /.git") ("parent directory")
+"Parent Directory" "Last modified" git
