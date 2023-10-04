@@ -1909,6 +1909,7 @@ log/access.log
 log/development.log
 log/error.log
 log/log.log
+log.log
 log/log.txt
 log/production.log
 log/server.log
@@ -29496,6 +29497,7 @@ robots.txt.dist
 root/
 roundcube/index.php
 rpc/
+dump.sqI
 rpcwithcert/
 rsconnect/
 rst.php
@@ -29533,6 +29535,7 @@ sensu/
 sentry/
 Server
 server-info
+server-status
 server-status/
 server.cert
 server.js
@@ -29546,9 +29549,12 @@ server_stats
 service-registry/instance-status
 service-registry/instance-status.json
 service.yaml
+storage.srv.js
+ user.srv.js
 serviceaccount.crt
 ServiceFabricBackup/
 services
+config/const.DB.php.bak
 services/
 servlet/
 servlet/%C0%AE%C0%AE%C0%AF
