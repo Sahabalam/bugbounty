@@ -1,0 +1,4 @@
+https://chat.booking.com/2/get_messages
+http://chat.booking.com/
+http://chat.booking.com
+https://chat.booking.com/

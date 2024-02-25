@@ -1,0 +1,13 @@
+https://cdn3.chrono24.com/ads.txt
+https://cdn3.chrono24.com/images/default/home/hero/
+https://cdn3.chrono24.com/images/default/indiebrands/crossselling/lindewerdelin/brand-gallery.jpg?auto=compress
+https://cdn3.chrono24.com/images/default/indiebrands/crossselling/lindewerdelin/brand-gallery@2x.jpg?auto=compress
+http://cdn3.chrono24.com/images/default/info/private-client-advisor-landing-page/hero/hero-md-retina.jpg?auto=compress&;w=1260
+https://cdn3.chrono24.com/.well-known/assetlinks.json
+https://cdn3.chrono24.com/
+https://cdn3.chrono24.com/images/default/home/hero
+http://cdn3.chrono24.com/images/default/info/private-client-advisor-landing-page/content/content-sm-retina.jpg?auto=compress&;w=998
+https://cdn3.chrono24.com/images/default/home/hero/new-visitor/
+http://cdn3.chrono24.com/robots.txt
+http://cdn3.chrono24.com/
+https://cdn3.chrono24.com/robots.txt

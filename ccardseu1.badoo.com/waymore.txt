@@ -1,0 +1,15 @@
+https://ccardseu1.badoo.com/favicon.ico
+https://ccardseu1.badoo.com/agg/Verifi/Fraud
+https://ccardseu1.badoo.com/form.phtml?lang_code=en-us&flow=web&service=BumbleBoost&country_id=25&trx_id=63WwXlpM6p6uHW59FP&merchant=Bumble&apid=61140&price=29.00000&currency_id=356&ones=0&sa=1&sad=day&tc_url=&v=9&dgc=1&tmchf=2&issub=1&asl=0&routing_override=&risk_rating_override=&fhl_source_id=4&tmplc=adaptive&request_code=GYn6BXGwIYuC6ANvrd1LcWPuGMb7dCI1&hash=87400e05046d4f0ee69972f0a1e471e694663f03
+https://ccardseu1.badoo.com/form.phtml?lang_code=en-us&flow=web&service=BumbleSpotlightCredits&country_id=25&trx_id=63WsB2GeuyrXH1qKLe&merchant=Bumble&apid=61140&price=1399&currency_id=356&ones=0&sa=30&sad=spotlight&tc_url=&dgc=1&tmchf=2&issub=0&asl=0&routing_override=&risk_rating_override=&fhl_source_id=4&tmplc=adaptive&request_code=GYn6BXGwIYuC6ANvrd1LcWPuGMb7dCI1&hash=c71f29224a908ceed11f12a83788edad77fc50da
+https://ccardseu1.badoo.com/static/50a12a62a5a536c04bf817c4e619a789e53fb0c3/js/payment_form.js
+https://ccardseu1.badoo.com/form.phtml?lang_code=en-us&flow=web&service=BumbleBoost&country_id=25&trx_id=63WsB2RH175AfMnlEc&merchant=Bumble&apid=61140&price=29&currency_id=356&ones=0&sa=1&sad=day&tc_url=&v=9&dgc=1&tmchf=2&issub=1&asl=0&routing_override=&risk_rating_override=&fhl_source_id=4&tmplc=adaptive&request_code=GYn6BXGwIYuC6ANvrd1LcWPuGMb7dCI1&hash=a4847cd0559cda868b44a4d36b31d982180142c3
+https://ccardseu1.badoo.com/static/50a12a62a5a536c04bf817c4e619a789e53fb0c3/js/stats.js
+https://ccardseu1.badoo.com/form.phtml?lang_code=en-us&flow=web&service=BumbleBoost&country_id=25&trx_id=63X9d5o64l2mmVzdF1&merchant=Bumble&apid=61140&price=59.00000&currency_id=356&ones=0&slid=3&sa=1&sad=day&tc_url=&v=9&dgc=1&tmchf=2&issub=1&asl=0&routing_override=&risk_rating_override=&fhl_source_id=4&tmplc=adaptive&request_code=GYn6BXGwIYuC6ANvrd1LcWPuGMb7dCI1&hash=68cbe27a860a0825dd23eb3e0f3a791d7c673468
+https://ccardseu1.badoo.com/static/2fe50971d8a0e8ecc93067a5e393205bbe460c21/js/payment_form.js
+http://ccardseu1.badoo.com
+https://ccardseu1.badoo.com/static/2fe50971d8a0e8ecc93067a5e393205bbe460c21/js/stats.js
+https://ccardseu1.badoo.com/form.phtml?lang_code=en-us&flow=web&service=BumbleBoost&country_id=25&trx_id=63WsB2d3kGG5rBYVje&merchant=Bumble&apid=61140&price=59&currency_id=356&ones=0&slid=3&sa=1&sad=day&tc_url=&v=9&dgc=1&tmchf=2&issub=1&asl=0&routing_override=&risk_rating_override=&fhl_source_id=4&tmplc=adaptive&request_code=GYn6BXGwIYuC6ANvrd1LcWPuGMb7dCI1&hash=264f88b0417e92b9488cbc4d4f84f1db05f7f15c
+https://ccardseu1.badoo.com/
+http://ccardseu1.badoo.com/
+https://ccardseu1.badoo.com/log.phtml

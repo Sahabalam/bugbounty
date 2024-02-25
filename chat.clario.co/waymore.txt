@@ -1,0 +1,3 @@
+https://chat.clario.co/login?auth_type=chat&redirect_url=https%3A%2F%2Fchat.clario.co%2F
+http://chat.clario.co
+https://chat.clario.co/
