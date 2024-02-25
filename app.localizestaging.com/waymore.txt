@@ -1,0 +1,6 @@
+https://app.localizestaging.com/editor
+https://app.localizestaging.com/api/
+https://app.localizestaging.com/robots.txt
+https://app.localizestaging.com/
+http://app.localizestaging.com/
+http://app.localizestaging.com

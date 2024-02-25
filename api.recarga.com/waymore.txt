@@ -1,0 +1,10 @@
+https://api.recarga.com/api/v2/app-features
+https://api.recarga.com/
+https://api.recarga.com/api/0.1/contexts/CO/index
+https://api.recarga.com
+https://api.recarga.com/oauth/token
+http://api.recarga.com/api/0.1
+http://api.recarga.com/
+http://api.recarga.com/api/0.1/top-up-products/ES
+http://api.recarga.com/mobile/info?vr=1&hash=b1c62f9c18e6a3805c7270c3dbc8e18ca3d06e6b&lang=en&version=1
+https://api.recarga.com/api/0.1/users/start-context?client_id=337410ab5147da7e339e5ee634151bcd&country=BR

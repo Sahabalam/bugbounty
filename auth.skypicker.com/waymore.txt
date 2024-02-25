@@ -1,0 +1,7 @@
+https://auth.skypicker.com/
+https://auth.skypicker.com/favicon.ico
+http://poskytneme.auth.skypicker.com
+https://auth.skypicker.com/robots.txt
+http://auth.skypicker.com/
+http://auth.skypicker.com
+https://auth.skypicker.com/v1/oauth.google.authorized

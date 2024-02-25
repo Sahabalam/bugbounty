@@ -1,0 +1,9 @@
+https://api.avtoelon.uz/ms/rum
+https://api.avtoelon.uz/ms/nps/
+https://api.avtoelon.uz/cdn.json
+https://api.avtoelon.uz/pay/mobile
+https://api.avtoelon.uz/
+http://api.avtoelon.uz/pay/mobile
+https://api.avtoelon.uz/ms/aps
+http://api.avtoelon.uz/
+http://api.avtoelon.uz/cdn.json

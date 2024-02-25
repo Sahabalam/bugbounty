@@ -1,0 +1,4 @@
+http://app.krisha.kz/data
+https://app.krisha.kz/
+https://app.krisha.kz/robots.txt
+http://app.krisha.kz/

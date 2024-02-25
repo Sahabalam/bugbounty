@@ -1,0 +1,5 @@
+http://bigcommerce-adapter.judge.me/
+https://bigcommerce-adapter.judge.me/
+http://bigcommerce-adapter.judge.me/robots.txt
+https://bigcommerce-adapter.judge.me/robots.txt
+http://bigcommerce-adapter.judge.me/assets/application-4dcd1af67d0cb9a1e8e31715e7855fa5e0604b1b24b35c475ebc782eb0bc0952.js

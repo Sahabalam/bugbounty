@@ -1,0 +1,8 @@
+https://api.smtp2go.com/banned-country-codes?sms_banned_short=true
+https://api.smtp2go.com/v3/
+https://api.smtp2go.com/v3/email/send
+https://api.smtp2go.com/banned-country-codes?sms_banned=true
+https://api.smtp2go.com/v3/email/
+https://api.smtp2go.com/
+https://api.smtp2go.com/v3/email/sendIapi-E0D7A148C85B45849733FBC279DBA9EF5
+https://api.smtp2go.com/v3/sms/send

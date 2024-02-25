@@ -1,0 +1,9 @@
+https://ab-frontend.prod.euce1.aws.indrive.tech/api/v1/namespaces
+https://ab-frontend.prod.euce1.aws.indrive.tech/js/manifest.d3299f83.js
+https://ab-frontend.prod.euce1.aws.indrive.tech/users
+https://ab-frontend.prod.euce1.aws.indrive.tech/js/locale1.9d54516f.js
+https://ab-frontend.prod.euce1.aws.indrive.tech/login
+https://ab-frontend.prod.euce1.aws.indrive.tech/js/vendor.0bd8918d.js
+https://ab-frontend.prod.euce1.aws.indrive.tech/js/locale0.6dd30935.js
+https://ab-frontend.prod.euce1.aws.indrive.tech/js/polyfills.f2075fce.js
+https://ab-frontend.prod.euce1.aws.indrive.tech/js/app.593f30d4.js
