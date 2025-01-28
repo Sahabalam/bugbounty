@@ -1,0 +1,16 @@
+{
+  "XSS_PAYLOADS": [
+    "<script>alert('XSS')</script>",
+    "<img src=x onerror=alert('XSS')>",
+    "<svg/onload=alert('XSS')>",
+    "javascript:alert('XSS')",
+    "<a href='javascript:alert(\"XSS\")'>Click Me</a>",
+    "<body onload=alert('XSS')>",
+    "<iframe src='javascript:alert(\"XSS\")'></iframe>"
+  ],
+  "XSS_REGEX": [
+    "<script.*?>.*?<\\/script>",
+    "on\\w+=\".*?\"",
+    "javascript:\\s*alert\\(.*?\\)"
+  ]
+}
